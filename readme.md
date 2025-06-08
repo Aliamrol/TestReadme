@@ -45,6 +45,8 @@ Each layer is decoupled and testable. Dependency Injection is handled via **Hilt
 ---
 
 ## 📁 Project Structure
+```
+
 ├── core/ → Device and platform utilities
 ├── data/ → Remote APIs, models, DataStore, local caching
 ├── di/ → Hilt dependency injection modules
@@ -55,3 +57,6 @@ Each layer is decoupled and testable. Dependency Injection is handled via **Hilt
 ├── viewModel/ → ViewModels with state exposure via Flow
 ├── MainActivity.kt → App startup and nav host
 ├── App.kt → Jetpack Compose & Hilt setup
+
+```
+
