@@ -19,9 +19,7 @@ A modern, maintainable, and scalable demo version of the **DigiKala** shopping a
 | Local Storage          | Room Database, DataStore                    |
 | Architecture Pattern   | MVVM + Clean Architecture                   |
 | Reactive Flow          | Kotlin Coroutines, Flow                     |
-| Code Principles        | SOLID, DRY, KISS                            |
-| Build System           | Gradle (KTS)                                |
-| State Management       | State Hoisting + ViewModel + Flow           |
+
 
 ---
 
@@ -47,7 +45,6 @@ Each layer is decoupled and testable. Dependency Injection is handled via **Hilt
 ---
 
 ## 📁 Project Structure
-com.example.digikala
 ├── core/ → Device and platform utilities
 ├── data/ → Remote APIs, models, DataStore, local caching
 ├── di/ → Hilt dependency injection modules
