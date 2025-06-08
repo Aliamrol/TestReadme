@@ -46,7 +46,7 @@ Each layer is decoupled and testable. Dependency Injection is handled via **Hilt
 
 ## 📁 Project Structure
 ```
-
+com.example.digikala
 ├── core/ → Device and platform utilities
 ├── data/ → Remote APIs, models, DataStore, local caching
 ├── di/ → Hilt dependency injection modules
