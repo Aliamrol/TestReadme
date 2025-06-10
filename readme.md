@@ -67,13 +67,13 @@ com.example.digikala
 
 
 <p align="center">
-  <img src="./screenshots/HomeScreen1.png" width="250"/>
-  <img src="./screenshots/HomeScreen2.png" width="250"/>
-  <img src="./screenshots/HomeScreen3.png" width="250"/>
+  <img src="./screenshots/HomeScreen1.jpg" width="250"/>
+  <img src="./screenshots/HomeScreen2.jpg" width="250"/>
+  <img src="./screenshots/HomeScreen3.jpg" width="250"/>
 </p>
 
 ## ▶️ Demo
 
 <p align="center">
-  <img src="demo/HomeScreen1.gif" width="320"/>
+  <img src="./demo/HomeScreen.gif" width="320"/>
 </p>
