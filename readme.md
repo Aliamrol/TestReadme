@@ -63,8 +63,6 @@ com.example.digikala
 
 ## 📸 Screenshots
 
-![](./screenshots/HomeScreen1.jpg)
-
 
 <p align="center">
   <img src="./screenshots/HomeScreen1.jpg" width="250"/>
